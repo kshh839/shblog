@@ -1,6 +1,7 @@
 package com.shblog.web;
 
 import javax.annotation.Resource;
+
 import org.apache.ibatis.session.SqlSession;
 import org.apache.ibatis.session.SqlSessionFactory;
 import org.junit.Test;
